@@ -1,0 +1,56 @@
+H:\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.exe
+H:\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.deps.json
+H:\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.runtimeconfig.json
+H:\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.dll
+H:\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.pdb
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.GeneratedMSBuildEditorConfig.editorconfig
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfoInputs.cache
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfo.cs
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.csproj.CoreCompileInputs.cache
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.dll
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\refint\DigitalBooks.dll
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.pdb
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.genruntimeconfig.cache
+H:\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\ref\DigitalBooks.dll
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfoInputs.cache
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfo.cs
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.csproj.CoreCompileInputs.cache
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\refint\DigitalBooks.dll
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.pdb
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.exe
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.deps.json
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.runtimeconfig.json
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.dll
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.pdb
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.dll
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.genruntimeconfig.cache
+D:\לימודים\סרבר\6\jm_VMEMNlF6MUmZCUf\פרויקט דזיין פטרן\DesignPattern\DigitalBooks\DigitalBooks\obj\Debug\net8.0\ref\DigitalBooks.dll
+E:\00000\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.exe
+E:\00000\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.deps.json
+E:\00000\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.runtimeconfig.json
+E:\00000\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.dll
+E:\00000\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.pdb
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.GeneratedMSBuildEditorConfig.editorconfig
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfoInputs.cache
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfo.cs
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.csproj.CoreCompileInputs.cache
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.dll
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\refint\DigitalBooks.dll
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.pdb
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.genruntimeconfig.cache
+E:\00000\DigitalBooks\DigitalBooks\obj\Debug\net8.0\ref\DigitalBooks.dll
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.exe
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.deps.json
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.runtimeconfig.json
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.dll
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\bin\Debug\net8.0\DigitalBooks.pdb
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfoInputs.cache
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.AssemblyInfo.cs
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.csproj.CoreCompileInputs.cache
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.dll
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\refint\DigitalBooks.dll
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.pdb
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\DigitalBooks.genruntimeconfig.cache
+D:\פרויקטים סרבר\DigitalBooks\DigitalBooks\obj\Debug\net8.0\ref\DigitalBooks.dll

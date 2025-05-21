@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\proxy\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\proxy\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\adapter\\colorbookadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\adapter\\colorbookadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\proxy\\bookproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\proxy\\bookproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\composite\\booksincategory (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\composite\\booksincategory (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\facade\\libraryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\ibook (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\ibook (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\adapter\\ibookprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\adapter\\ibookprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\bridge\\backgroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\bridge\\backgroundcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\bridge\\bookdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\bridge\\bookdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\bridge\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\bridge\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\bridge\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\bridge\\icolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\bridge\\textcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\bridge\\textcolor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\decorator\\bookdecorator (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\decorator\\bookdecorator (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\decorator\\libraryuseonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\decorator\\libraryuseonly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\decorator\\rarebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\decorator\\rarebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\enum\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\enum\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\flyweight\\bookflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\flyweight\\bookflyweight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\flyweight\\bookflyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\flyweight\\bookflyweightfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|d:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\digitalbooks\\digitalbooks\\digitalbooks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7E4FA6B-852F-458D-835B-BBC1222CA5EC}|DigitalBooks\\DigitalBooks.csproj|solutionrelative:digitalbooks\\digitalbooks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 25,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookFlyweightFactory.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Flyweight\\BookFlyweightFactory.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Flyweight\\BookFlyweightFactory.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Flyweight\\BookFlyweightFactory.cs",
+              "RelativeToolTip": "DigitalBooks\\Flyweight\\BookFlyweightFactory.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T22:56:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColorBookAdapter.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Adapter\\ColorBookAdapter.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Adapter\\ColorBookAdapter.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Adapter\\ColorBookAdapter.cs",
+              "RelativeToolTip": "DigitalBooks\\Adapter\\ColorBookAdapter.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:13:38.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookFlyweight.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Flyweight\\BookFlyweight.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Flyweight\\BookFlyweight.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Flyweight\\BookFlyweight.cs",
+              "RelativeToolTip": "DigitalBooks\\Flyweight\\BookFlyweight.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAuwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:30:28.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Book.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Book.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Book.cs",
+              "RelativeToolTip": "DigitalBooks\\Book.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:16:01.777Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 375,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Proxy\\UserRole.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Proxy\\UserRole.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Proxy\\UserRole.cs",
+              "RelativeToolTip": "DigitalBooks\\Proxy\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:31:55.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RareBook.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Decorator\\RareBook.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Decorator\\RareBook.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Decorator\\RareBook.cs",
+              "RelativeToolTip": "DigitalBooks\\Decorator\\RareBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:15:39.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TextColor.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\TextColor.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Bridge\\TextColor.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\TextColor.cs",
+              "RelativeToolTip": "DigitalBooks\\Bridge\\TextColor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:14:41.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBook (1).cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\IBook (1).cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\IBook (1).cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\IBook (1).cs",
+              "RelativeToolTip": "DigitalBooks\\IBook (1).cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAuwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:16:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LibraryUseOnly.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Decorator\\LibraryUseOnly.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Decorator\\LibraryUseOnly.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Decorator\\LibraryUseOnly.cs",
+              "RelativeToolTip": "DigitalBooks\\Decorator\\LibraryUseOnly.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:15:34.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program (1).cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Program (1).cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Program (1).cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Program (1).cs",
+              "RelativeToolTip": "DigitalBooks\\Program (1).cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:16:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksInCategory (1).cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Composite\\BooksInCategory (1).cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Composite\\BooksInCategory (1).cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Composite\\BooksInCategory (1).cs",
+              "RelativeToolTip": "DigitalBooks\\Composite\\BooksInCategory (1).cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:14:54.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryFacade.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Facade\\LibraryFacade.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Facade\\LibraryFacade.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Facade\\LibraryFacade.cs",
+              "RelativeToolTip": "DigitalBooks\\Facade\\LibraryFacade.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:15:57.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookProxy.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Proxy\\BookProxy.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Proxy\\BookProxy.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Proxy\\BookProxy.cs",
+              "RelativeToolTip": "DigitalBooks\\Proxy\\BookProxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T20:15:18.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Display.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\Display.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Bridge\\Display.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\Display.cs",
+              "RelativeToolTip": "DigitalBooks\\Bridge\\Display.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:14:30.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDisplay.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\BookDisplay.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Bridge\\BookDisplay.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\BookDisplay.cs",
+              "RelativeToolTip": "DigitalBooks\\Bridge\\BookDisplay.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA8wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:14:24.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BackGroundColor.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\BackGroundColor.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Bridge\\BackGroundColor.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\BackGroundColor.cs",
+              "RelativeToolTip": "DigitalBooks\\Bridge\\BackGroundColor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:14:14.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookProvider.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Adapter\\IBookProvider.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Adapter\\IBookProvider.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Adapter\\IBookProvider.cs",
+              "RelativeToolTip": "DigitalBooks\\Adapter\\IBookProvider.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:13:57.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IColor.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\IColor.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Bridge\\IColor.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Bridge\\IColor.cs",
+              "RelativeToolTip": "DigitalBooks\\Bridge\\IColor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:14:36.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Enum\\BookCategory.cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Enum\\BookCategory.cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Enum\\BookCategory.cs",
+              "RelativeToolTip": "DigitalBooks\\Enum\\BookCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:15:44.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDecorator (1).cs",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Decorator\\BookDecorator (1).cs",
+              "RelativeDocumentMoniker": "DigitalBooks\\Decorator\\BookDecorator (1).cs",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\Decorator\\BookDecorator (1).cs",
+              "RelativeToolTip": "DigitalBooks\\Decorator\\BookDecorator (1).cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAUwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T18:15:01.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DigitalBooks.csproj",
+              "DocumentMoniker": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\DigitalBooks.csproj",
+              "RelativeDocumentMoniker": "DigitalBooks\\DigitalBooks.csproj",
+              "ToolTip": "D:\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8\u05D9\u05DD \u05E1\u05E8\u05D1\u05E8\\DigitalBooks\\DigitalBooks\\DigitalBooks.csproj",
+              "RelativeToolTip": "DigitalBooks\\DigitalBooks.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T18:13:30.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
