@@ -36,3 +36,32 @@ The system supports borrowing and returning books, hierarchical categorization, 
 git clone https://github.com/yourusername/digital-library-patterns.git
 cd digital-library-patterns
 # Open the solution (.sln) file with Visual Studio
+```
+
+> Requires [.NET SDK](https://dotnet.microsoft.com/download) and Visual Studio 2022+
+
+---
+
+## 💡 Example Use Cases
+
+- Add a "Rare" label to a book using a decorator
+- Display a book using either background or foreground color (Bridge)
+- Attempt to borrow a restricted book with a standard user (Proxy)
+- Load two identical books and verify memory reuse (Flyweight)
+- Search and print all books in a subcategory (Composite + Facade)
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** C#
+- **Architecture:** Object-Oriented Programming, SOLID Principles
+- **Patterns:** Adapter, Bridge, Composite, Decorator, Flyweight, Proxy, Facade
+- **Tools:** .NET Core, Visual Studio, Console App
+
+---
+
+## 👩‍💻 Author
+
+Built with ❤️ by miryamizadka  
+For educational and professional demonstration purposes.
